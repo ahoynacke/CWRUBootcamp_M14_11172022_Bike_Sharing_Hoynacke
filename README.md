@@ -55,10 +55,12 @@ A heatmap is created showing the number of bike trips for each type of user and 
 
 ## Deliverable 3 - Analysis
 
-### Overview of the statistical analysis:
-
-### Results:
-
 ### Summary of Results and Suggestions:
+
+The city of Des Moines is the capital and most populous city in Iowa. This metropolitan area has an estimated population of 212,000, and has lots of business and e-commerce engagement. This is why it would be a great idea to move forward with the next phase. In addition to the visualizations already delivered two additional visualizations I would like to see for future analysis are:
+
+Business Partners - Local Businesses: Analyze the businesses along the routes to see if we could offer discounted rates to their employees. 
+
+Female Engagement - We need to look further into female engagement so visualizations that show promotions tailored to women or look into offer specials that would increase revenue per hour by Gender (focusing on women) and weekday. 
 
 
