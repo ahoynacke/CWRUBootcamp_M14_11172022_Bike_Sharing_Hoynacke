@@ -1,4 +1,4 @@
-# CWRUBootcamp_M14_11172022_ETL_Hoynacke
+# CWRUBootcamp_M14_11172022_Bike_Sharing_Hoynacke
 ## Project Overview 
 Now that we've gotten a good idea of how to create our story, there is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
 
@@ -66,7 +66,7 @@ A heatmap is created showing the number of bike trips for each type of user and 
 
 ## Deliverable 3 - Analysis
 
-### link to final dashboard can be found here:
+### Link to final dashboard can be found here:
 https://public.tableau.com/app/profile/alexa.hoynacke2376/viz/Bike_Sharing_16687177743180/Story1?publish=yes
 
 ### Summary of Results and Suggestions:
