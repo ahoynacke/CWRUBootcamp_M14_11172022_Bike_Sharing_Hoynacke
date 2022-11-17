@@ -57,14 +57,17 @@ A heatmap is created showing the number of bike trips for each hour of each day 
 ### Trips by Gender (Weekday per Hour)
 A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender
 
-<img width="1003" alt="Screen Shot 2022-11-17 at 3 21 45 PM" src="https://user-images.githubusercontent.com/111096384/202551721-5c3d3a9d-a127-4dda-98b2-d39bbc61926a.png">
+<img width="999" alt="Screen Shot 2022-11-17 at 3 24 57 PM" src="https://user-images.githubusercontent.com/111096384/202552461-639dfd14-9ad5-4077-840d-52bdab16ef8f.png">
 
 ### User Trips by Gender by Weekday 
-A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender 
+A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender
+
+<img width="1171" alt="Screen Shot 2022-11-17 at 3 27 45 PM" src="https://user-images.githubusercontent.com/111096384/202552966-21664d57-9b19-4451-95f2-107e9fa663eb.png">
 
 ## Deliverable 3 - Analysis
 
 ### link to final dashboard can be found here:
+https://public.tableau.com/app/profile/alexa.hoynacke2376/viz/Bike_Sharing_16687177743180/Story1?publish=yes
 
 ### Summary of Results and Suggestions:
 
