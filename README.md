@@ -39,21 +39,24 @@ Exporting to a new file was completed by using the following line of code:
 ## Deliverable 2 
 ### Below you will find the requirements for Deliverable 2 and screen shots of the final results built in Tableau: 
 
+### Check Out by Duration for Users
 There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour 
 
-
+### Check Out by Duration for each Gender 
 There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender 
 
-
+### Trips by Weekday for Each Hour 
 A heatmap is created showing the number of bike trips for each hour of each day of the week 
 
-
+### Trips by Gender (Weekday per Hour)
 A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender
 
-
+### User Trips by Gender by Weekday 
 A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender 
 
 ## Deliverable 3 - Analysis
+
+### link to final dashboard can be found here:
 
 ### Summary of Results and Suggestions:
 
