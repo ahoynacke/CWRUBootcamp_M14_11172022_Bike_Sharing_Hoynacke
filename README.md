@@ -42,14 +42,22 @@ Exporting to a new file was completed by using the following line of code:
 ### Check Out by Duration for Users
 There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour 
 
+<img width="1380" alt="Screen Shot 2022-11-17 at 2 55 31 PM" src="https://user-images.githubusercontent.com/111096384/202546215-d793f369-fdd5-4afe-977f-2c5900d3edb9.png">
+
 ### Check Out by Duration for each Gender 
 There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender 
+
+<img width="1166" alt="Screen Shot 2022-11-17 at 3 09 43 PM" src="https://user-images.githubusercontent.com/111096384/202549130-40cdf125-3a2a-47e2-999e-d40a0ed45326.png">
 
 ### Trips by Weekday for Each Hour 
 A heatmap is created showing the number of bike trips for each hour of each day of the week 
 
+<img width="1379" alt="Screen Shot 2022-11-17 at 3 17 35 PM" src="https://user-images.githubusercontent.com/111096384/202551063-0c1a5366-c88e-428d-9489-6f9ef6c695d8.png">
+
 ### Trips by Gender (Weekday per Hour)
 A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender
+
+<img width="1003" alt="Screen Shot 2022-11-17 at 3 21 45 PM" src="https://user-images.githubusercontent.com/111096384/202551721-5c3d3a9d-a127-4dda-98b2-d39bbc61926a.png">
 
 ### User Trips by Gender by Weekday 
 A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender 
