@@ -53,3 +53,12 @@ A heatmap is created showing the number of bike trips by gender for each hour of
 
 A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender 
 
+## Deliverable 3 - Analysis
+
+### Overview of the statistical analysis:
+
+### Results:
+
+### Summary of Results and Suggestions:
+
+
